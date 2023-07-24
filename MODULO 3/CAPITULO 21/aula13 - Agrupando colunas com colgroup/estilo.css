@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+caption{
+    font-size: 1.3em;
+    font-weight: bold;
+    padding: 8px;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+    
+}
+
+.cnome{
+    background-color: chartreuse;
+}
+
+.cgroup{
+    background-color: red;
+}

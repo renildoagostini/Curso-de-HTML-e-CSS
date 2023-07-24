@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Logo secundaria.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53588673"
+     inkscape:cx="317.23122"
+     inkscape:cy="559.8198"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3302">
+      <stop
+         style="stop-color:#003399;stop-opacity:0.28651685;"
+         offset="0"
+         id="stop3298" />
+      <stop
+         style="stop-color:#003399;stop-opacity:0;"
+         offset="1"
+         id="stop3300" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3294">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop3290" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop3292" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3276"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#003399;stop-opacity:1;"
+         offset="0"
+         id="stop3274" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3220"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#003399;stop-opacity:1;"
+         offset="0"
+         id="stop3218" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient586">
+      <stop
+         style="stop-color:#006600;stop-opacity:1;"
+         offset="0"
+         id="stop582" />
+      <stop
+         style="stop-color:#006600;stop-opacity:0;"
+         offset="1"
+         id="stop584" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient586"
+       id="linearGradient588"
+       x1="23.836174"
+       y1="170.63832"
+       x2="130.38197"
+       y2="170.63832"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3294"
+       id="linearGradient3296"
+       x1="40.887888"
+       y1="199.5064"
+       x2="101.47291"
+       y2="199.5064"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3302"
+       id="linearGradient3304"
+       x1="172.49252"
+       y1="123.94524"
+       x2="200.69307"
+       y2="123.94524"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ff00c7;stroke-width:1.7"
+       id="path234"
+       sodipodi:type="arc"
+       sodipodi:cx="98.989182"
+       sodipodi:cy="134.42461"
+       sodipodi:rx="82.556023"
+       sodipodi:ry="76.992775"
+       sodipodi:start="5.7272688"
+       sodipodi:end="3.7701148"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 169.11368,93.793824 A 82.556023,76.992775 0 0 1 151.20112,194.06377 82.556023,76.992775 0 0 1 42.275859,190.37433 82.556023,76.992775 0 0 1 32.209838,89.156707"
+       transform="matrix(0.9960575,-0.08870993,0.05487586,0.99849318,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.5742px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#003399;stroke:#ffea0a;stroke-width:0.968197;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="text1007"
+       transform="matrix(-0.19092847,-2.1541666,1.4158864,-0.17242065,-38.768004,490.19844)"><textPath
+         xlink:href="#path234"
+         id="textPath1059"
+         style="fill:#003399;stroke:#ffea0a;stroke-width:0.968197;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"><tspan
+           id="tspan1005"
+           style="fill:#003399;stroke:#ffea0a;stroke-width:0.968197;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1">HORTIFRUTI</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.94px;font-family:Amiri;-inkscape-font-specification:'Amiri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient588);stroke:#ff00c7;stroke-width:1.69999;stroke-dasharray:none"
+       x="16.040989"
+       y="229.95897"
+       id="text1064"
+       transform="scale(1.2500951,0.79993914)"><tspan
+         sodipodi:role="line"
+         id="tspan1062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:183.9399999px;font-family:Amiri;-inkscape-font-specification:'Amiri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient588);stroke-width:1.69999"
+         x="16.040989"
+         y="229.95897">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.202px;font-family:Amiri;-inkscape-font-specification:'Amiri, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient3296);stroke:#ff00c7;stroke-width:1.7;stroke-dasharray:none"
+       x="42.651268"
+       y="229.19124"
+       id="text1068"
+       transform="scale(1.496544,0.66820622)"><tspan
+         sodipodi:role="line"
+         id="tspan1066"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.202px;font-family:Amiri;-inkscape-font-specification:'Amiri, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient3296);stroke-width:1.7"
+         x="42.651268"
+         y="229.19124">R</tspan></text>
+  </g>
+</svg>
